@@ -1,0 +1,12 @@
+Testcase: edu.umb.cs680.hw12.ApfsDirectoryTest
+Test: checkSubDirectory() took 2 milli sec(s)
+Test: verifyGetChildren() took 2 milli sec(s)
+Test: checkCount() took 1 milli sec(s)
+Test: checkFiles() took 2 milli sec(s)
+Test: checkFilesInDirectory() took 1 milli sec(s)
+Test: checkSize() took 0 milli sec(s)
+Test: checkDirectoryApplications() took 1 milli sec(s)
+Test: checkDirectory() took 2 milli sec(s)
+Test: checkDirectoryCode() took 1 milli sec(s)
+Test: checkDirectoryHome() took 0 milli sec(s)
+Tests run: 10, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 18 milli sec(s)
