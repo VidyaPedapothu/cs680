@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.hw10.DistanceTest
+Test: matrixWithPointsListAndManhattan() took 10 milli sec(s)
+Test: matrixWithPointsListAndChebyshev() took 1 milli sec(s)
+Test: matrixWithPointsListAndEuclidean() took 5 milli sec(s)
+Test: getWithP1P2AndManhattan() took 1 milli sec(s)
+Test: defaultMatrixWithPointsList() took 0 milli sec(s)
+Test: getWithP1P2() took 0 milli sec(s)
+Test: getWithP1P2AndChebyshev() took 0 milli sec(s)
+Test: getWithP1P2AndEuclidean() took 0 milli sec(s)
+Tests run: 8, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 25 milli sec(s)
